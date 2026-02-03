@@ -21,4 +21,4 @@ top 5 mobile brand by transaction, top 3 mobile models by Total_sales,
  
  Dashboard:https://github.com/sonalilakade123/Power-BI-Dashboard/blob/main/mobile_sales%20dashboard.pbix
 
- Image:
+ Image:https://github.com/sonalilakade123/Power-BI-Dashboard/blob/main/Screenshot%20(4).png
