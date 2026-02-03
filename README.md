@@ -14,4 +14,7 @@ top 5 mobile brand by transaction, top 3 mobile models by Total_sales,
 
 🌏 create map location city by Total_sales, Dayname wise Total_sales
 
-🛠️ 🎯 Tools Used: Power BI, Excel(for data cleaning), DAX , Data Modelling
+🛠️ 🎯 Tools Used: Power BI, Excel(for data cleaning), DAX , Data Modelling.
+
+# Repository Structure
+.Data:
