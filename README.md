@@ -17,5 +17,6 @@ top 5 mobile brand by transaction, top 3 mobile models by Total_sales,
 🛠️ 🎯 Tools Used: Power BI, Excel(for data cleaning), DAX , Data Modelling.
 
 # Repository Structure
-. Data:https://github.com/sonalilakade123/Power-BI-Dashboard/blob/main/Mobile%20Sales%20Data%20(1).xlsx
-. Dashboard:
+ Data:https://github.com/sonalilakade123/Power-BI-Dashboard/blob/main/Mobile%20Sales%20Data%20(1).xlsx
+ 
+ Dashboard:https://github.com/sonalilakade123/Power-BI-Dashboard/blob/main/mobile_sales%20dashboard.pbix
