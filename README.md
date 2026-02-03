@@ -2,7 +2,7 @@
 
 📱 I recently built an interactive Mobile Sales Dashboard using power BI, where I transformed raw mobiles sales data into meaningful Sales insights.
 
-📝 What's inside the Dashboard?
+# What's insights the Dashboard?
 
 📈 📊 Total_sales, avg_sales, Total_quant, Transaction, 
 
