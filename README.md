@@ -1,2 +1,10 @@
 # Power-BI-Dashboard
-I built an interactive Mobile Sales Dashboard Using Power BI, where I transformed raw mobile sales data into meaningful sales insights
+
+📱 I recently built an interactive Mobile Sales Dashboard using power BI, where I transformed raw mobiles sales data into meaningful Sales insights
+📝 What's inside the Dashboard?
+📈 📊 Total_sales, avg_sales, Total_quant, Transaction, 
+month wise Total_sales , count customer rating, city wise Total_sales, 
+top 5 mobile brand by transaction, top 3 mobile models by Total_sales,
+🆙 🏧 Transaction by payment method like 1.UPI 2.Debit card 3.Credit card 4.cash .
+🌏 create map location city by Total_sales, Dayname wise Total_sales
+🛠️ 🎯 Tools Used: Power BI, Excel(for data cleaning), DAX , Data Modelling
